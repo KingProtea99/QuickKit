@@ -3,7 +3,7 @@ using UnityEngine;
 namespace KP.QuickKit.Audio
 {
     [CreateAssetMenu(menuName = "Audio/Audio Delegate")]
-    public class AudioDelegateSO : MonoBehaviour
+    public class AudioDelegateSO : ScriptableObject
     {
         [SerializeField] private AudioClip[] clips;
         [SerializeField] private RangedFloat volume;

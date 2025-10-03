@@ -1,0 +1,15 @@
+{
+  "name": "com.kingprotea99.quickkit",
+  "version": "1.0.0",
+  "displayName": "QuickKit",
+  "description": "A fast Unity prototyping engine.",
+  "unity": "6000.1",
+  "keywords": [
+    "quick"
+  ],
+  "author": {
+    "name": "KingProtea99",
+    "email": "KingProtea99@gmail.com",
+    "url": "https://github.com/KingProtea99"
+  }
+}
