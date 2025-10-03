@@ -9,7 +9,7 @@ namespace KP.QuickKit.Events
         [Header("Listen Event Channel")]
         [SerializeField] private VoidEventChannelSO _eventChannel;
 
-        [Header("Respond Event Channel")]
+        [Space]
         [SerializeField] private UnityEvent _response;
         [SerializeField] private float _delay;
 
